@@ -6,7 +6,8 @@ const concept = [
      {name: "What is V8 Engine?", path:"/concepts/WhatIsV8Engine"},
      {name: " Is Node.js Single-threaded or Multi-threaded??", path:"/concepts/SingleOrMultiThreaded"},
      {name: "How does Node.js handle Concurrency?", path:"/concepts/NodeConcurrency"},
-
+     {name: "What is Non-blocking I/O?", path:"/concepts/NonBlockingIO"},
+     {name: "What is libuv??", path:"/concepts/libuv"},
 
 ];
 
