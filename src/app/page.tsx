@@ -27,7 +27,7 @@ export default function Home() {
         <div className="border rounded-xl p-5 shadow-sm hover:shadow-md transition">
           <h3 className="text-lg font-semibold mb-2">Strong Type System</h3>
           <p className="text-gray-600 text-sm">
-            Understand how TypeScript improves code safety and prevents bugs.
+            Understand how Nodejs improves code safety and prevents bugs.
           </p>
         </div>
 

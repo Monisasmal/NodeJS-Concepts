@@ -14,7 +14,7 @@ export default function WhatIsNodeJS() {
         <div className="space-y-4">
 
           {/* Definition */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
               1. Definition
             </h2>
@@ -26,7 +26,7 @@ export default function WhatIsNodeJS() {
           </section>
 
           {/* When */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
               2. When to Use Node.js
             </h2>
@@ -39,7 +39,7 @@ export default function WhatIsNodeJS() {
           </section>
 
           {/* Where */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
               3. Where it is Used
             </h2>
@@ -53,11 +53,11 @@ export default function WhatIsNodeJS() {
           </section>
 
           {/* Why */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
               4. Why Use Node.js
             </h2>
-            <ul className="list-disc ml-5 text-sm sm:text-base text-gray-700 space-y-1">
+            <ul className="list-disc ml-5 text-sm sm:text-base text-gray-800 space-y-1">
               <li>JavaScript for both frontend & backend</li>
               <li>Fast (non-blocking)</li>
               <li>Handles multiple requests</li>
@@ -65,8 +65,19 @@ export default function WhatIsNodeJS() {
             </ul>
           </section>
 
+          {/* How */}
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold mb-2">5. How Node.js Works</h2>
+        <ul className="list-disc ml-6">
+          <li>Built on Chrome V8 JavaScript Engine</li>
+          <li>Uses single-threaded event loop</li>
+          <li>Handles requests asynchronously</li>
+          <li>Non-blocking I/O operations</li>
+        </ul>
+      </section>
+
           {/* Code */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-3">
               Basic Syntax
             </h2>
@@ -84,7 +95,7 @@ server.listen(3000);`}
           </section>
 
           {/* Real Example */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-3">
               Real Example
             </h2>
@@ -105,18 +116,40 @@ server.listen(3000);`}
             </pre>
           </section>
 
+          {/* Advantages */}
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold mb-2">7. Advantages</h2>
+        <ul className="list-disc ml-6">
+          <li>Fast and scalable</li>
+          <li>Non-blocking architecture</li>
+          <li>JavaScript everywhere</li>
+          <li>Huge npm ecosystem</li>
+        </ul>
+      </section>
+
+      {/* Disadvantages */}
+      <section className="mb-6">
+        <h2 className="text-2xl font-semibold mb-2">8. Disadvantages</h2>
+        <ul className="list-disc ml-6">
+          <li>Not suitable for CPU-heavy tasks</li>
+          <li>Callback complexity (callback hell)</li>
+          <li>Single-thread limitations</li>
+        </ul>
+      </section>
+
           {/* Interview */}
-          <section className="bg-white shadow-sm rounded-xl p-4 sm:p-6">
+          <section className="bg-blue-50 shadow-sm rounded-xl p-4 sm:p-6">
             <h2 className="text-lg sm:text-xl md:text-2xl font-semibold mb-2">
               Interview Points
             </h2>
-            <ul className="list-disc ml-5 text-sm sm:text-base text-gray-700 space-y-1">
+            <ul className="list-disc ml-5 text-sm sm:text-base text-gray-900 space-y-1">
               <li>Node.js is a runtime</li>
               <li>Single-threaded event loop</li>
               <li>Non-blocking I/O</li>
               <li>Best for I/O-heavy apps</li>
             </ul>
           </section>
+
 
         </div>
       </div>
