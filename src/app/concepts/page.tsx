@@ -16,6 +16,7 @@ const concept = [
      {name: "What are Callback Hell?", path:"/concepts/WhatIsCallbackHell"},
      {name: "What are Promises?", path:"/concepts/WhatArePromises"},
      {name: "What are PromiseVsAsyncAwait?", path:"/concepts/PromiseVsAsyncAwait"},
+     {name: "What are MicrotaskVsMacrotask?", path:"/concepts/MicrotaskVsMacrotask"},
 ];
 
 export default function Concepts(){
