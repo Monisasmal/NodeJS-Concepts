@@ -9,6 +9,8 @@ const concept = [
      {name: "What is Non-blocking I/O?", path:"/concepts/NonBlockingIO"},
      {name: "What is libuv??", path:"/concepts/libuv"},
      {name: "What is Event Loop??", path:"/concepts/WhatIsEventLoop"},
+     {name: "What is Event Lopp Phase?", path:"/concepts/EventLoopPhases"},
+     {name: "Difference between setTimeout and setImmediate?", path:"/concepts/SetTimeoutVsSetImmediate"},
 ];
 
 export default function Concepts(){
