@@ -8,7 +8,7 @@ const concept = [
      {name: "How does Node.js handle Concurrency?", path:"/concepts/NodeConcurrency"},
      {name: "What is Non-blocking I/O?", path:"/concepts/NonBlockingIO"},
      {name: "What is libuv??", path:"/concepts/libuv"},
-
+     {name: "What is Event Loop??", path:"/concepts/WhatIsEventLoop"},
 ];
 
 export default function Concepts(){
