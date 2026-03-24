@@ -19,7 +19,8 @@ const concept = [
      {name: "What are MicrotaskVsMacrotask?", path:"/concepts/MicrotaskVsMacrotask"},
      {name: "What are Modules?", path:"/concepts/WhatAreModules"},
      {name: "Difference between CommonJS vs ES Modules?", path:"/concepts/CommonJSvsESModules"},
-      {name: "What are Module Export Vs Export?", path:"/concepts/ModuleExportVsExports"},
+     {name: "What are Module Export Vs Export?", path:"/concepts/ModuleExportsVsExports"},
+     {name: "Difference between require and import?", path:"/concepts/RequireVsImport"},
 ];
 
 export default function Concepts(){
