@@ -3,7 +3,7 @@ import Link from "next/link";
 const CodingQue = [
      {name: "Create a simple HTTP server?", path:"/InterviewCoding/create-http-server"},
      {name: " Read and Write Files using fs Module?", path:"/InterviewCoding/ReadWriteFile"},
-
+     {name: "Create a custom EventEmitter.", path:"/InterviewCoding/CustomEventEmitter"},
      
 ];
 
