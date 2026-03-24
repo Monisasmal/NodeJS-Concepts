@@ -17,6 +17,7 @@ const concept = [
      {name: "What are Promises?", path:"/concepts/WhatArePromises"},
      {name: "What are PromiseVsAsyncAwait?", path:"/concepts/PromiseVsAsyncAwait"},
      {name: "What are MicrotaskVsMacrotask?", path:"/concepts/MicrotaskVsMacrotask"},
+     {name: "What are Modules?", path:"/concepts/WhatAreModules"},
 ];
 
 export default function Concepts(){
