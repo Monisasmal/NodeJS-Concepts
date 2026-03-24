@@ -18,6 +18,8 @@ const concept = [
      {name: "What are PromiseVsAsyncAwait?", path:"/concepts/PromiseVsAsyncAwait"},
      {name: "What are MicrotaskVsMacrotask?", path:"/concepts/MicrotaskVsMacrotask"},
      {name: "What are Modules?", path:"/concepts/WhatAreModules"},
+     {name: "Difference between CommonJS vs ES Modules?", path:"/concepts/CommonJSvsESModules"},
+      {name: "What are Module Export Vs Export?", path:"/concepts/ModuleExportVsExports"},
 ];
 
 export default function Concepts(){
