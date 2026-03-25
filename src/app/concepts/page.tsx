@@ -22,6 +22,7 @@ const concept = [
      {name: "What are Module Export Vs Export?", path:"/concepts/ModuleExportsVsExports"},
      {name: "Difference between require and import?", path:"/concepts/RequireVsImport"},
      {name: "How to Read Files in Node.js??", path:"/concepts/HowToReadFiles"},
+     {name: "How to Write Files in Node.js??", path:"/concepts/HowToWriteFiles"},
 ];
 
 export default function Concepts(){
