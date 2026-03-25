@@ -4,7 +4,7 @@ const concept = [
      {name: "What is Node js?", path:"/concepts/what-is-Nodejs"},
      {name: "Difference Between Node Vs BrowserJS?", path:"/concepts/NodeVsBrowserJS"}, 
      {name: "What is V8 Engine?", path:"/concepts/WhatIsV8Engine"},
-     {name: " Is Node.js Single-threaded or Multi-threaded??", path:"/concepts/SingleOrMultiThreaded"},
+     {name: "Is Node.js Single-threaded or Multi-threaded??", path:"/concepts/SingleOrMultiThreaded"},
      {name: "How does Node.js handle Concurrency?", path:"/concepts/NodeConcurrency"},
      {name: "What is Non-blocking I/O?", path:"/concepts/NonBlockingIO"},
      {name: "What is libuv??", path:"/concepts/libuv"},
@@ -25,6 +25,7 @@ const concept = [
      {name: "How to Write Files in Node.js??", path:"/concepts/HowToWriteFiles"},
      {name: "Difference between Sync and Async File Methods?", path:"/concepts/SyncVsAsyncFileMethods"},
      {name: "What is a Stream in Node.js?", path:"/concepts/WhatIsStream"},
+     {name: "What are type of Stream in Node.js?", path:"/concepts/TypesOfStreams"},
 ];
 
 export default function Concepts(){
