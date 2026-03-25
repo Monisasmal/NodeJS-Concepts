@@ -23,6 +23,7 @@ const concept = [
      {name: "Difference between require and import?", path:"/concepts/RequireVsImport"},
      {name: "How to Read Files in Node.js??", path:"/concepts/HowToReadFiles"},
      {name: "How to Write Files in Node.js??", path:"/concepts/HowToWriteFiles"},
+     {name: " Difference between Sync and Async File Methods?", path:"/concepts/SyncVsAsyncFileMethods"},
 ];
 
 export default function Concepts(){
