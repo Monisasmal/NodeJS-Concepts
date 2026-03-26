@@ -26,6 +26,7 @@ const concept = [
      {name: "Difference between Sync and Async File Methods?", path:"/concepts/SyncVsAsyncFileMethods"},
      {name: "What is a Stream in Node.js?", path:"/concepts/WhatIsStream"},
      {name: "What are type of Stream in Node.js?", path:"/concepts/TypesOfStreams"},
+     {name: "What is a Piping in stream?", path:"/concepts/WhatIsPiping"},
 ];
 
 export default function Concepts(){
