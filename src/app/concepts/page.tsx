@@ -28,6 +28,8 @@ const concept = [
      {name: "What are type of Stream in Node.js?", path:"/concepts/TypesOfStreams"},
      {name: "What is a Piping in stream?", path:"/concepts/WhatIsPiping"},
      {name: "What is Buffer?", path:"/concepts/WhatIsBuffer"},
+     {name: "Type of Error in nodejs?", path:"/concepts/TypesOfErrors"},
+     {name: "How does try/catch work with async/await?", path:"/concepts/TryCatchAsyncAwait"},
 ];
 
 export default function Concepts(){
