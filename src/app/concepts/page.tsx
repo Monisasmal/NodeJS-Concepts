@@ -32,6 +32,7 @@ const concept = [
      {name: "How does try/catch work with async/await?", path:"/concepts/TryCatchAsyncAwait"},
      {name: "How to Handle Async Errors in Node.js?", path:"/concepts/HandleAsyncErrors"},
      {name: " How to Create an HTTP Server in Node.js?", path:"/concepts/CreateHTTPServerConcept"},
+     {name: "What is REST API??", path:"/concepts/WhatIsRestAPI"},
 ];
 
 export default function Concepts(){
