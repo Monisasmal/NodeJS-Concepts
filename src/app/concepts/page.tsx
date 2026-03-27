@@ -35,6 +35,7 @@ const concept = [
      {name: "What is REST API??", path:"/concepts/WhatIsRestAPI"},
      {name: "How does Node.js handle HTTP requests??", path:"/concepts/NodeJsHttpRequests"},
      {name: "What is CORS?", path:"/concepts/WhatIsCROS"},
+     {name: "What is JWT?", path:"/concepts/WhatIsJWT"},
 ];
 
 export default function Concepts(){
