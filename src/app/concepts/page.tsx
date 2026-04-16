@@ -38,6 +38,7 @@ const concept = [
      {name: "What is JWT?", path:"/concepts/WhatIsJWT"},
      {name: "What is bcrypt??", path:"/concepts/WhatIsBcrypt"},
      {name: "How Node.js handles non-blocking I/O internally?", path:"/concepts/NonBlockingIOInternal"},
+     {name: "Explain libuv in Detail?", path:"/concepts/ExplainLibuv"},
 ];
 
 export default function Concepts(){
