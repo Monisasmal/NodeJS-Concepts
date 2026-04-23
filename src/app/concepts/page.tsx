@@ -39,6 +39,7 @@ const concept = [
      {name: "What is bcrypt??", path:"/concepts/WhatIsBcrypt"},
      {name: "How Node.js handles non-blocking I/O internally?", path:"/concepts/NonBlockingIOInternal"},
      {name: "Explain libuv in Detail?", path:"/concepts/ExplainLibuv"},
+     {name: "What Happens When You Run a Node.js File??", path:"/concepts/NodeJsExecutionFlow"},
 ];
 
 export default function Concepts(){
