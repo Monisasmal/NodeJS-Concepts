@@ -12,7 +12,7 @@ export default function Home() {
       {/* Hero */}
       <section className="text-center space-y-4">
         <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-darkblue-600">
-          Learn <span className="text-green-700">MongoDB</span> the Right Way
+          Learn <span className="text-green-700">NodeJS</span> the Right Way
         </h1>
 
         <p className="text-sm sm:text-base text-gray-600 max-w-2xl mx-auto">
