@@ -5,6 +5,7 @@ const CodingQue = [
      {name: " Read and Write Files using fs Module?", path:"/InterviewCoding/ReadWriteFile"},
      {name: "Create a custom EventEmitter.", path:"/InterviewCoding/CustomEventEmitter"},
      {name: "Implement Promise.all Example", path:"/InterviewCoding/PromiseAllExample"},
+     {name: "Create Debounce Function", path:"/InterviewCoding/CreateDebounceFunction"},
 ];
 
 export default function InterviewCoding(){
