@@ -6,6 +6,7 @@ const CodingQue = [
      {name: "Create a custom EventEmitter.", path:"/InterviewCoding/CustomEventEmitter"},
      {name: "Implement Promise.all Example", path:"/InterviewCoding/PromiseAllExample"},
      {name: "Create Debounce Function", path:"/InterviewCoding/CreateDebounceFunction"},
+     {name: "Stream a Large File", path:"/InterviewCoding/StreamLargeFile"},
 ];
 
 export default function InterviewCoding(){
