@@ -2,11 +2,12 @@ import Link from "next/link";
 
 const CodingQue = [
      {name: "Create a simple HTTP server?", path:"/InterviewCoding/create-http-server"},
-     {name: " Read and Write Files using fs Module?", path:"/InterviewCoding/ReadWriteFile"},
+     {name: "Read and Write Files using fs Module?", path:"/InterviewCoding/ReadWriteFile"},
      {name: "Create a custom EventEmitter.", path:"/InterviewCoding/CustomEventEmitter"},
      {name: "Implement Promise.all Example", path:"/InterviewCoding/PromiseAllExample"},
      {name: "Create Debounce Function", path:"/InterviewCoding/CreateDebounceFunction"},
      {name: "Stream a Large File", path:"/InterviewCoding/StreamLargeFile"},
+     {name: "Create Throttle Function", path:"/InterviewCoding/CreateThrottleFunction"},
 ];
 
 export default function InterviewCoding(){
